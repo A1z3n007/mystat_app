@@ -1,3 +1,5 @@
-PyQt5==5.15.10
-requests==2.32.3
-matplotlib==3.8.4
+PyQt5
+PyQtWebEngine
+requests
+matplotlib
+sqlite3
